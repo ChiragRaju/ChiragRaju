@@ -15,7 +15,8 @@
 
 ### **Talking about Personal Stuffs:**
 
- 🌱 I’m currently learning <b>React js</b>.<be> 
+ -🌱 I’m currently learning <b>React js</b>.<be> 
+ - 💬 Ask me about **react,Node,Java,Javascript,DotNet**
  
 
  
@@ -23,12 +24,15 @@
 
 <code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666041-81a3eb00-eb17-11ea-8142-a049c30b3083.png"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"></code>
+ <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></code>
+ <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666227-ba908f80-eb18-11ea-9118-fdc1a845195b.png"></code>
 <code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666238-ced48c80-eb18-11ea-8279-66d4fbc90cc3.png"></code>
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </code>
- 
+<code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></code>
+ <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>
  
  ### Github Profile Trophy
  
