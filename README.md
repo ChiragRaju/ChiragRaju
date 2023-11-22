@@ -2,7 +2,7 @@
 <h3 align="center">On a road to Full Stack Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag-raju-78b866230/">
-    <img align="center" alt="Aditya's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="ChiragRaju's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&ensp;
 
  
@@ -10,6 +10,8 @@
 </p>
 <br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
+
+  - 📫 How to reach me **chiragrajus2002@gmail.com**
 
 ### **Talking about Personal Stuffs:**
 
