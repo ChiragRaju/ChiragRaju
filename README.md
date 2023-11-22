@@ -6,7 +6,7 @@
   </a>&ensp;
 
  
-  <img height="22" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-cyber007.visitor-badge">
+  <img height="22" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=ChiragRaju.visitor-badge">
 </p>
 <br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
