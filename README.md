@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adityapratap00" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityapratap00?trk=profile-badge">Chirag Raju</a></div></h1>
 <h3 align="center">On a road to Full Stack Developer</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-pratap-singh-b6ba901ba/">
+  <a href="https://www.linkedin.com/in/chirag-raju-78b866230/">
     <img align="center" alt="Aditya's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&ensp;
 
