@@ -16,7 +16,7 @@
 ### **Talking about Personal Stuffs:**
 
  -🌱 I’m currently learning <b>React js</b>.<be> 
- - 💬 Ask me about **react,Node,Java,Javascript,DotNet**
+ - 💬 Ask me about **Javascript,c#,react,.Net Core**
  
 
  
